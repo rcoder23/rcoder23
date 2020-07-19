@@ -1,8 +1,8 @@
 ### Hi there 👋 
 - 🔭 I’m computer science student.
 - 🌱 I’m currently learning python and machine learning...
-- ⚡ Fun fact:"programming is not difficult ,but our thinking make it difficult.
-"KEEP SIMPLE"
+- ⚡ Fun fact:"programming is not difficult ,but our thinking make it difficult.<br/>
+<b>"KEEP SIMPLE"</b><br>
 -----learning new things ,python lover is here -------
 <b>---Believe in GOD-------</b>
 
