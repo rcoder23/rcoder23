@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+- 🔭 I’m computer science student.
+- 🌱 I’m currently learning python and machine learning...
+- ⚡ Fun fact:"programming is not difficult ,but our thinking make it difficult.
+"KEEP SIMPLE"
+-----learning new things ,python lover is here -------
+<b>---Believe in GOD-------</b>
+
 
 <!--
 **rcoder23/rcoder23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
