@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning python and machine learning...
 - ⚡ Fun fact:"programming is not difficult ,but our thinking make it difficult.<br/>
 <b>"KEEP SIMPLE"</b><br>
------learning new things ,python lover is here -------
+-----learning new things <br>
+python lover is here -------<br>
 <b>---Believe in GOD-------</b>
-
+😄 Pronouns: hitman
 
 <!--
 **rcoder23/rcoder23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
