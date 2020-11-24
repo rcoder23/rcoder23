@@ -1,8 +1,9 @@
 ### Hi there 👋 
-- I am final year BCA student an open source enthusiast.
-- My Skills is :- HTML, CSS, Python , Java.
-- Always Try To learn Something new .
+I am final year BCA student an open source enthusiast.
+My Skills is :- Python , And ML 
 
+
+Always Try To learn Something new .
   
 
 <!--
