@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Srivastava</h1>
-<h3 align="center">A passionate Python and Machine developer. Love to contribute in open-source fields. Always ready to learn new thing . You can follow me ,for cool and awsome projects .</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcoder23" alt="rcoder23" /></a> </p>
+<h3 align="center">A passionate Python and Java developer. Love to contribute in open-source Projects . Always ready to learn new thing . You can follow me , for cool and awsome projects .</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Python and ML**
+- 💬 Ask me about **Java and Datastructures**
 
 - 📫 How to reach me **rohitsrivastava2303@gmail.com**
 
