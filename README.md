@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Java and Datastructures**
 
-- 📫 How to reach me **rohitsrivastava2303@gmail.com**
+
 
 - ⚡ Fun fact **I think i am funny**
 
