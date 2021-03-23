@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Srivastava</h1>
 <h3 align="center">A passionate Python and Java developer. Love to contribute in open-source Projects . Always ready to learn new thing . You can follow me , for cool and awsome projects .</h3>
 
-- 🌱 I’m currently learning **Java Springs**
 
-- 💬 Ask me about **Java and Datastructures**
+
+- 🌱 I’m currently learning **Android Developement (Kotlin )**
+- 
 
 
 
