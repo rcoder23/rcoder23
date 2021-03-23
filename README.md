@@ -4,8 +4,6 @@
 
 
 - 🌱 I’m currently learning **Android Developement (Kotlin )**
-- 
-
 
 
 - ⚡ Fun fact **I think i am funny**
