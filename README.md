@@ -13,12 +13,18 @@
 
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcoder23&show_icons=true&theme=radical)](https://github.com/rcoder23/github-readme-stats)
 <br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcoder23&layout=compact)](https://github.com/rcoder23/github-readme-stats)
 
+
+
+</p>
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rcoder23&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br>
 <h3 align="left">You can connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iam_rksri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iam_rksri" height="30" width="40" /></a>
-</p>
-
-
-
