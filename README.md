@@ -24,15 +24,12 @@
 
 **Tools & Technologies 💻**
 
-![java](https://user-images.githubusercontent.com/62320661/127473798-1baf3d3c-da06-4ac6-8f63-411a6138e63f.png)  ![boot](https://user-images.githubusercontent.com/62320661/127474730-9b799ab1-f202-40fc-b85c-061d9fab90e9.png)  ![py](https://user-images.githubusercontent.com/62320661/127474781-cdba49bf-07a8-41b2-b37f-c5ba9ba21728.png)   ![android](https://user-images.githubusercontent.com/62320661/127474796-f2caf5a7-ea31-4c88-9585-3c3136e1ffc9.png)
-![csspng](https://user-images.githubusercontent.com/62320661/127474868-a47811e5-467d-4abd-ab71-ceb79935fb6d.png)
-![html](https://user-images.githubusercontent.com/62320661/127474951-87da0434-39f1-463c-a908-867ee31ccd86.png)
+![java](https://user-images.githubusercontent.com/62320661/127477116-a5baab40-4f40-41dc-9d73-9343e90f7624.png)
+![py](https://user-images.githubusercontent.com/62320661/127477147-2159d216-def2-4d3a-b4d6-f816b0282112.png) ![boot](https://user-images.githubusercontent.com/62320661/127477174-bdb5acc1-c33b-440d-b681-f40b9f0a5a1b.png) ![html](https://user-images.githubusercontent.com/62320661/127477200-e845feb8-b37b-44be-984c-2a7052b23e88.png)
+![csspng](https://user-images.githubusercontent.com/62320661/127477214-05a61a43-0deb-45aa-888b-bc0097906ccd.png)
+![android](https://user-images.githubusercontent.com/62320661/127477227-6a3ef042-39b6-492a-9164-111d35a0f9a1.png)
 
 
-
-
-[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcoder23&show_icons=true&theme=radical)](https://github.com/rcoder23/github-readme-stats)
-<br>
 <br>
 
 
