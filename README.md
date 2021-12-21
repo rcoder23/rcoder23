@@ -22,14 +22,12 @@
 
 <br>
 
-**Tools & Technologies 💻**
-
-![java](https://user-images.githubusercontent.com/62320661/127477116-a5baab40-4f40-41dc-9d73-9343e90f7624.png)
-![py](https://user-images.githubusercontent.com/62320661/127477147-2159d216-def2-4d3a-b4d6-f816b0282112.png) ![boot](https://user-images.githubusercontent.com/62320661/127477174-bdb5acc1-c33b-440d-b681-f40b9f0a5a1b.png) ![html](https://user-images.githubusercontent.com/62320661/127477200-e845feb8-b37b-44be-984c-2a7052b23e88.png)
-![csspng](https://user-images.githubusercontent.com/62320661/127477214-05a61a43-0deb-45aa-888b-bc0097906ccd.png)
-![android](https://user-images.githubusercontent.com/62320661/127477227-6a3ef042-39b6-492a-9164-111d35a0f9a1.png)
-
-
-![](https://komarev.com/ghpvc/?username=rcoder23&color=blueviolet)
+**Tools & Technologies 💻** <br>
+<code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477116-a5baab40-4f40-41dc-9d73-9343e90f7624.png"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477147-2159d216-def2-4d3a-b4d6-f816b0282112.png"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477174-bdb5acc1-c33b-440d-b681-f40b9f0a5a1b.png"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477200-e845feb8-b37b-44be-984c-2a7052b23e88.png"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477214-05a61a43-0deb-45aa-888b-bc0097906ccd.png"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477227-6a3ef042-39b6-492a-9164-111d35a0f9a1.png"></code>
 
 
