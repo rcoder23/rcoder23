@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 
 
-- 👨‍💻 I'm Pursuing **MCA** from Dr. Ram manohar loyia avadh university , Ayodhya. 
+- 👨‍💻 I'm Working As **SDE** 
 - 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
 - 🎶 Love to listen songs in my free time.
 - 📚 Also completed my **O level** from NIELIT(New Delhi) with 74%.
