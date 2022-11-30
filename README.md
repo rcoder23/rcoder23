@@ -2,6 +2,7 @@
 
 
 - 👨‍💻 I'm Working As **SDE** 
+- 📚 Completed Master's of Computer Application from Dr. RMLAU .
 - 💬 Ask me anything related to Java, DSA or open-source, I'll try my best to help.
 - 🎶 Love to listen songs in my free time.
 - 📚 Also completed my **O level** from NIELIT(New Delhi) with 74%.
