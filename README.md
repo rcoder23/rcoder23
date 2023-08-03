@@ -17,6 +17,7 @@
  - ✨ Top 50 contributor in the girlscipt summer of code program.
  - ✨ Best Student of 2017-2020 (BCA) batch in my college.
  - ✨ Rank 1 in BCA in my College.
+ - ✨ Rank 1 in MCA in my University (Lateral Admission) .
 
 **You can connect with me** :
 <a href="https://www.linkedin.com/in/rohit-kumar-srivastava-41b7b1187/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a> <a href="https://twitter.com/iam_rksri">![alt text](https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter) </a>
