@@ -31,5 +31,8 @@
 <code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477200-e845feb8-b37b-44be-984c-2a7052b23e88.png"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477214-05a61a43-0deb-45aa-888b-bc0097906ccd.png"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/62320661/127477227-6a3ef042-39b6-492a-9164-111d35a0f9a1.png"></code>
+<code><img height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDCsnH-LecjXUO0ujaEgMSALxOVGEf_7KSZA&s"></code>
+<code><img height="60" src="https://www.angularminds.com/tech-logos/nodejs-logo.svg"></code>
+<code><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png"></code>
 
 
